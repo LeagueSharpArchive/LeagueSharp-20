@@ -86,7 +86,7 @@ namespace Assemblies.Champions {
             if (player.HasBuff("gnartransform")) {
                 Q = qMega;
                 //E = eMega;
-                Game.PrintChat("Big Gnar Mode rek ppl pls");
+               // Game.PrintChat("Big Gnar Mode rek ppl pls");
             }
 
             doKillsteal(target);
