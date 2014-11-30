@@ -1,9 +1,2 @@
-LeagueSharp
+These will not be updated from now on, I'll be making standalone assemblies.
 ===========
-
-Supported Champions
-- Ezreal
-- Fizz
-- Kalista - WIP
-
-More assemblies WIP.
